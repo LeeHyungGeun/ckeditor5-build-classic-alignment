@@ -63,10 +63,10 @@ ClassicEditor.defaultConfig = {
 		items: [
 			'heading',
 			'|',
+			'alignment',
 			'bold',
 			'italic',
 			'link',
-			'alignment',
 			'bulletedList',
 			'numberedList',
 			'imageUpload',
