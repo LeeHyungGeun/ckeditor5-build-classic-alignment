@@ -1,6 +1,6 @@
 {
   "name": "ckeditor5-build-classic-alignment",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The classic editor build of CKEditor 5 with alignment – the best browser-based rich text editor.",
   "keywords": [
     "ckeditor5-build",
